@@ -1,5 +1,5 @@
 # Redux Counter
-
+Eric
 ## Topics
 
 * Immutability in JavaScript
